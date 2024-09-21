@@ -1,0 +1,15 @@
+
+# Dataset path
+path: /content/gdrive/MyDrive/Colab Notebooks/deep learning/final lab
+
+# Train/val/test sets
+train: SkyFusion_data/train/images
+val: SkyFusion_data/val/images
+test: SkyFusion_data/test/images
+
+# Class Names
+names:
+  0: Aircraft
+  1: ship
+  2: vehicle
+    
